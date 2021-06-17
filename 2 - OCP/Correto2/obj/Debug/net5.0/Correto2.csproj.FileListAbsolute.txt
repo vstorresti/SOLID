@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\bin\Debug\net5.0\Correto2.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\bin\Debug\net5.0\Correto2.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\bin\Debug\net5.0\ref\Correto2.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\bin\Debug\net5.0\Correto2.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\ref\Correto2.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\2 - OCP\Correto2\obj\Debug\net5.0\Correto2.pdb
