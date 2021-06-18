@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bIFlNGZo1lhraG45Bd5eVxfOu0aJXaPOhjAbl2vpAJkMCXCRlj7wAvkgLkIJLwkyzIv25ItRl7HIsxR3L18Uw==",
+  "dgSpecHash": "76Iq51TH1yyhjMnZRO76IjnjDG0D7Y+dGdBOOavqrQNp+rZ+8/A1CvM4uOElvzoECPmCHxRXa4Nqr9Qh5/UXKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\DesenvolvedorIO\\Arquitetura\\SOLID\\1 - SRP\\Errado\\Errado.csproj",
+  "projectFilePath": "c:\\Users\\victo\\OneDrive\\Área de Trabalho\\DesenvolvedorIO\\Arquitetura\\SOLID\\1 - SRP\\Errado\\Errado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
