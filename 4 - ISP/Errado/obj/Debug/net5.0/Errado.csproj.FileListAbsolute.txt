@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\bin\Debug\net5.0\Errado.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\bin\Debug\net5.0\Errado.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\bin\Debug\net5.0\ref\Errado.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\bin\Debug\net5.0\Errado.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\ref\Errado.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\4 - ISP\Errado\obj\Debug\net5.0\Errado.pdb
