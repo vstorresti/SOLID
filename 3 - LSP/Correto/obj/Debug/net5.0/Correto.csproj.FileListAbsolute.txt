@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\bin\Debug\net5.0\Correto.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\bin\Debug\net5.0\Correto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\bin\Debug\net5.0\ref\Correto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\bin\Debug\net5.0\Correto.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\ref\Correto.dll
+C:\Users\victo\OneDrive\Área de Trabalho\DesenvolvedorIO\Arquitetura\SOLID\3 - LSP\Correto\obj\Debug\net5.0\Correto.pdb
